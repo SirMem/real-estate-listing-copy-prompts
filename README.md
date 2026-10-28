@@ -12,6 +12,8 @@
 
 ---
 
+**Intent page (method + CTA):** [How to write a real estate listing description with ChatGPT prompts](https://sirmem.github.io/freelancer-money-sheets/how-to-write-a-real-estate-listing-description-with-chatgpt-prompts.html)
+
 ## Frameworks credited (public methods)
 
 | Framework | What it does here |
@@ -56,6 +58,8 @@ We do **not** claim ownership of these methods. We wrote the prompt wording and 
 ## Trust hub
 
 Public ledger & free samples: https://sirmem.github.io/freelancer-money-sheets/
+
+Intent page for this pack: https://sirmem.github.io/freelancer-money-sheets/how-to-write-a-real-estate-listing-description-with-chatgpt-prompts.html
 
 ## License
 
