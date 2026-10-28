@@ -6,6 +6,8 @@
 
 **Price:** **$0** (this free pack). Download / clone / copy. No signup.
 
+**Download ($0):** [Gumroad free pack](https://keithjenn.gumroad.com/l/re-listing-copy-prompts) · [prompts.md (GitHub raw)](https://raw.githubusercontent.com/SirMem/real-estate-listing-copy-prompts/main/prompts.md) · [repo](https://github.com/SirMem/real-estate-listing-copy-prompts)
+
 **Why trust:** Prompts are built on widely taught public marketing methods — **AIDA**, **PAS** (Problem–Agitate–Solve), **feature → benefit**, and **open-house urgency** — not on one person’s private playbook. Each prompt includes a short **EXAMPLE** output against a clearly marked fake property so you can judge quality before you paste.
 
 **After click:** Open `prompts.md`, copy one prompt, fill the `[brackets]`, paste into your AI tool of choice. Instant draft text you edit before publishing.
